@@ -4,7 +4,6 @@ feature-1: -----Hello, 5555.
 ...feature-1
 ...feature-2
 
-line6
-line7
+
 line8
 -----end
